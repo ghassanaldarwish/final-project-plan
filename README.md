@@ -257,7 +257,7 @@ Thu
 
 - Retrospective (optional)
 
-	![retro in class](./resource/images/retro-1.jpg "Retrospective in class")
+	![retro in class](./retro-1.jpg "Retrospective in class")
 
 	The whole class together spends 10 min to write down what went well, what didn't go well in their team.
 
